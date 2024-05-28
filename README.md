@@ -1,7 +1,3 @@
-Sure, here's a README file for your project:
-
----
-
 # User Balance Management API
 
 ## Overview
